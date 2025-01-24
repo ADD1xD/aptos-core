@@ -1648,6 +1648,7 @@ dependencies = [
  "aptos-drop-helper",
  "aptos-infallible",
  "aptos-metrics-core",
+ "arc-swap",
  "bitvec 1.0.1",
  "criterion",
  "itertools 0.13.0",
